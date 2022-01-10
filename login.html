@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<style>
+
+body
+{
+background-color:black
+}
+
+    </style>
+
+<body>
+
+<br>
+<br>
+    <div>
+        <form name="login_form">
+            <center>
+                <h1>Login</h1>
+               
+            </center>
+            <div>
+
+                <center>
+                    <div>
+                        <input type="id" name="id" placeholder="ID">
+                    </div>
+                    <br>
+                    <div>
+                        <input type="password" name="pass" placeholder="Password" onchange="nextPage()">
+                    </div>
+                </center>
+
+            </div>
+<br>
+<center>
+            <button type="button" onClick="nextPage();">Submit</button>
+        </form>
+
+     
+        <script language="JavaScript" type="text/javascript">
+            function nextPage() {
+                id = document.login_form.id.value
+                pwd = document.login_form.pass.value;
+                location.href = id + pwd + ".html";
+            }
+        </script>
+
+    </div>
+</body>
+
+</html>
