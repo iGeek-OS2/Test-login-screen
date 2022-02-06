@@ -1,0 +1,39 @@
+{
+    "name": "MitaInject0r",
+    "identifier": "com.igeekos.mitj",
+    "apps": [
+        {
+            "name": "MitaInject0r",
+            "bundleIdentifier": "com.igeekos.mita",
+            "developerName": "@ignek",
+            "subtitle": "他人のiPhoneを破壊できます",
+            "version": "10.0.0",
+            "versionDate": "2021-03-24T00:00:00-00:00",
+            "versionDescription": "• Bugfixes",
+            "downloadURL": "https://github.com/iGeek-OS2/Shortcuts/blob/main/Respring.ipa.zip?raw=true",
+            "localizedDescription": "MitaInjectorは自分のiPhoneも破壊できますし、他人のiPhoneも破壊できます。自己責任でね^_^",
+            "iconURL": "https://raw.githubusercontent.com/iGeek-OS2/Test-login-screen/main/9315197D-2777-4614-B6F4-CDDE32FA94E4.png",
+            "tintColor": "0093E9",
+            "size": 22000000,
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/iGeek-OS2/Test-login-screen/main/763E0361-B930-4B7C-B757-DDAFE974E651.jpeg",
+                "https://raw.githubusercontent.com/iGeek-OS2/Test-login-screen/main/763E0361-B930-4B7C-B757-DDAFE974E651.jpeg",
+                "https://raw.githubusercontent.com/iGeek-OS2/Test-login-screen/main/763E0361-B930-4B7C-B757-DDAFE974E651.jpeg",
+                "https://raw.githubusercontent.com/iGeek-OS2/Test-login-screen/main/763E0361-B930-4B7C-B757-DDAFE974E651.jpeg"
+            ]
+        }
+    ],
+    "news": [
+        {
+            "title": "MitaInjector can be able to destroy iPhone.",
+            "identifier": "mitain-x-altstore",
+            "caption": "Wow. Your danger!!",
+            "tintColor": "0093E9",
+            "imageURL": "https://raw.githubusercontent.com/iGeek-OS2/Test-login-screen/main/039E1A8E-4890-4A03-B21D-D96C4FCB9F2F.jpeg",
+            "appID": "com.igeekos.mita",
+            "date": "2021-03-24",
+            "notify": true
+        }
+    ],
+    "userInfo": {}
+}
